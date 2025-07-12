@@ -47,6 +47,10 @@
 
 ###
 
+<img align="right" height="250" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mustafaihab99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mustafaihab99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -54,12 +58,10 @@
 
 ###
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mustafaihab99/Mustafaihab99/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mustafaihab99/Mustafaihab99/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mustafaihab99/Mustafaihab99/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mustafaihab99/Mustafaihab99/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
