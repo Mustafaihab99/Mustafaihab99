@@ -39,6 +39,7 @@
 
 - 🍔 [Smoothies Restaurant Site](https://mustafaihab99.github.io/SmoothiesRestaurant/) – responsive restaurant landing page  
 - 🏋️ [Gym Landing Page](https://mustafaihab99.github.io/mygym/) – animated homepage with modern design  
+- 📝 [To-Do App (React)](https://github.com/Mustafaihab99/ToDoApp/) – clean UI + localStorage  
 
 ---
 
